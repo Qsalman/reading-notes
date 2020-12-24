@@ -17,3 +17,14 @@ Day 12 | reading assignment12
 Day  13| reading assignment13
 Day 14 | reading assignment14
 Day 15 | reading assignment15
+
+## Using Markdown  to view JavaScript 
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
